@@ -63,7 +63,7 @@
             <span class="font-medium">Compartilhe: </span>
             <a
                 class="bg-green-500 p-2 rounded-full border border-green-600"
-                href="whatsapp://send?text=Você já leu a Liturgia de hoje?✨ Não perca essa reflexão para o seu dia! Acesse agora e compartilhe também: https://liturgia.site "
+                href="whatsapp://send?text=Você já leu a Liturgia de hoje?✨ Não perca essa reflexão para o seu dia! Acesse agora e compartilhe também: https://liturgia-me.vercel.app "
                 data-action="share/whatsapp/share"
                 target="_blank"
             >
@@ -76,7 +76,7 @@
             </a>
             <a
                 class="bg-fbblue p-2 rounded-full border border-blue-600"
-                href="https://www.facebook.com/dialog/share?app_id=145634995501895&display=popup&href=https%3A%2F%2Fliturgia.site&text=Veja a litúrgia de hoje!"
+                href="https://www.facebook.com/dialog/share?app_id=145634995501895&display=popup&href=https%3A%2F%2Fliturgia-me.vercel.app&text=Veja a litúrgia de hoje!"
                 target="_blank"
             >
                 <img
